@@ -100,6 +100,14 @@
 }
 
 
+.RSE-Border {
+  border: 2px solid #062A78; /* Catalina Blue */
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: white;
+}
+
 
 
 
