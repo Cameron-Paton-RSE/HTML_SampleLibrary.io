@@ -38,9 +38,17 @@
 .header-bar {
   position: fixed;
   top: 0;
+  right: 0;
   width: 100%;
   z-index: 1000;
+  padding: 8px 16px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
 }
+
+
 body {
   padding-top: 60px; /* Adjust based on header height */
 }
@@ -50,7 +58,7 @@ body {
 .nav-right {
   display: flex;
   justify-content: flex-end;
-  align-items: center;
+  align-items: right;
   gap: 12px;
 }
 
