@@ -47,6 +47,15 @@ body {
 
 
 
+.nav-right {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 12px;
+}
+
+
+
 .pdf-fallback {
   text-align: center;
   padding: 20px;
