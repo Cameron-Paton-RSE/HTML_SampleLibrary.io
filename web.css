@@ -45,6 +45,22 @@
 
 
 
+.footerRSE {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #062A78; /* Catalina Blue */
+  color: white;
+  text-align: center;
+  padding: 12px 0;
+  box-shadow: 0 -2px 8px rgba(0,0,0,0.2);
+  font-family: "Poppins", sans-serif;
+}
+
+
+
+
 
 /* Navigation Bar */
 .navbar {
