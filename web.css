@@ -35,6 +35,18 @@
 
 
 
+.header-bar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+body {
+  padding-top: 60px; /* Adjust based on header height */
+}
+
+
+
 .pdf-fallback {
   text-align: center;
   padding: 20px;
